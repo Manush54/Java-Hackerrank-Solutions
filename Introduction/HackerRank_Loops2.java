@@ -1,6 +1,6 @@
 import java.util.*;
 
-class HackerRank_Loop2{
+class HackerRank_Loops2{
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int t=in.nextInt();
