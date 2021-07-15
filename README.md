@@ -1,7 +1,5 @@
 # Java-Hackerrank-Solutions
 
-# Java-Hackerrank-Solutions
-
 # JAVA
 
 |          Subdomain          | Difficulty |                                                  Challenge                                                   |                                                               Solution                                                                |
