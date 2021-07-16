@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HackerRank_Palindrome {
+public class HackerRank_Reverse {
 
     public static void main(String[] args) {
         
