@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class JavaHashMap {
+public class JavaHashSet {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
