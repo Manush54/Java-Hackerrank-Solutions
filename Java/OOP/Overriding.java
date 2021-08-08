@@ -1,4 +1,3 @@
-import java.util.*;
 class Sports{
 
     String getName(){

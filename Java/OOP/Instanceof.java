@@ -2,11 +2,11 @@ import java.util.*;
 
 
 class Student{}
-class Rockstar{   }
+class Rockstar{}
 class Hacker{}
 
 
-public class Instanceof{
+public class Instanceof {
 	
    static String count(ArrayList mylist){
       int a = 0,b = 0,c = 0;

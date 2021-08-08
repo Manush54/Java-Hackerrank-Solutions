@@ -1,17 +1,11 @@
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
-
+//Write your code here
 class Arithmetic{
-    static int add(int a, int b){
-        return (a+b);
+    int add(int a, int b){
+        return a+b;
     }
 }
-class Adder extends Arithmetic{
-    
-}
+
+class Adder extends Arithmetic{}
 public class Inheritance2{
     public static void main(String []args){
         // Create a new Adder object
