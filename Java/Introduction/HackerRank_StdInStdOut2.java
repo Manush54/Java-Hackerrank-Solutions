@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HackerRank_StdinStdout2 {
+public class HackerRank_StdInStdOut2 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -12,6 +12,7 @@ public class HackerRank_StdinStdout2 {
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
         System.out.println("Int: " + i);
-        
+
+        scan.close();        
     }
 }
